@@ -1,5 +1,7 @@
 # 🛠️ Splunk Enterprise Installation on Ubuntu
 
+
+!!!!!! YOU FIND THE IMAGES IN /images in this directory !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ## 📘 Overview
 
 This guide walks you through installing **Splunk Enterprise** on an Ubuntu machine. The setup is part of the SOC Lab project and is essential for collecting and analyzing security event logs.
